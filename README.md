@@ -9,7 +9,7 @@
 - ⚡ Şu anda Türkiye'de önde gelen bir Haber/Medya şirketinde sosyal medya yönetimi yapıyorum ve yazılımlarını hazırlıyorum.
 
 
-![My stats](https://github-readme-stats.vercel.app/api?username=om3rcan&show_icons=true&count_private=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=om3rcan&theme=dark&show_icons=true&count_private=true)
 
 ### Benimle iletişime geçebileceğiniz sosyal medya ağları:
 
