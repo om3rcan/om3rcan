@@ -1,9 +1,6 @@
 
 ### Ömer CAN
 
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
-[![Discord](https://img.shields.io/discord/329630273639809026?label=Discord&logo=Discord)][discord]
-
 ## Öğrenci, Geliştirici, ve Sosyal Medya Uzmanı
 
 - ⚡ Şu anda Türkiye'de önde gelen bir Haber/Medya şirketinde sosyal medya yönetimi yapıyorum ve yazılımlarını hazırlıyorum.
